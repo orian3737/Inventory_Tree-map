@@ -3,6 +3,8 @@ import pandas as pd
 import plotly.express as px
 import sqlite3
 from color_themes import get_categorical_colors, get_continuous_colors  # Import theme functions
+#excel file reder and interpretor
+
 
 def main():
     st.set_page_config(page_title="Data Visualization App", layout="wide")
