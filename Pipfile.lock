@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "f937f3e575093aeadcba438cfbe4818b5c891201ede47b33d4a073b8b451e041"
+            "sha256": "18eaded4bcd09a42a6baea88374f8fc8f286cd9aeeda2ea533ae07f126938a44"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -722,6 +722,15 @@
             "markers": "python_version >= '3.8'",
             "version": "==0.20.1"
         },
+        "setuptools": {
+            "hashes": [
+                "sha256:f2504966861356aa38616760c0f66568e535562374995367b4e69c7143cf6bcd",
+                "sha256:fba5dd4d766e97be1b1681d98712680ae8f2f26d7881245f2ce9e40714f1a686"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.8'",
+            "version": "==75.3.0"
+        },
         "six": {
             "hashes": [
                 "sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926",
@@ -844,6 +853,15 @@
             ],
             "markers": "platform_system != 'Darwin'",
             "version": "==4.0.2"
+        },
+        "wheel": {
+            "hashes": [
+                "sha256:52f0baa5e6522155090a09c6bd95718cc46956d1b51d537ea5454249edb671c7",
+                "sha256:a57353941a3183b3d5365346b567a260a0602a0f8a635926a7dede41b94c674a"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.8'",
+            "version": "==0.45.0"
         },
         "zipp": {
             "hashes": [
