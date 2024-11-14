@@ -1,0 +1,4 @@
+plotly
+pandas
+streamlit
+sqlite3  # Other dependencies as needed
