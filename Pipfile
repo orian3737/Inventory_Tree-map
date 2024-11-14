@@ -10,6 +10,7 @@ streamlit = "*"
 setuptools = "*"
 wheel = "*"
 numpy = ">=2.0"
+xlrd = ">=2.0.1"
 
 [dev-packages]
 
